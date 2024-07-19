@@ -1,0 +1,21 @@
+#img2{
+    transition: .5s ease-out;
+}
+#img2:hover{
+    transform: scale(1.10);
+
+}
+#arrow{
+    width: 10px;
+}
+
+
+#toggle{
+    font-size: 14px;
+}
+#input{
+    position: relative;
+}
+#lens{
+    position: absolute;
+}
